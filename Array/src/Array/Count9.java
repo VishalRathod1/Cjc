@@ -10,6 +10,7 @@ public static void main(String[] args) {
 		if(no==9 || no1==9)
 		{
 			System.out.println(i);
+			System.out.println("Vishal");
 			count++;
 		}
 		if(no==9 && no1==9)
